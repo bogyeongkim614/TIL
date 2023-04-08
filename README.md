@@ -6,7 +6,7 @@
 4. 관계 데이터베이스
 
 ### [Operation System](/OS)
-1. [운영체제](/os/README.md)
+1. [운영체제](/OS/README.md)
 2. 프로세스
 3. 병행성
 4. 교착상태
